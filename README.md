@@ -1,4 +1,4 @@
-# ReacherAgent
+# Reacher Agent
 
 # Project's Goal
 
